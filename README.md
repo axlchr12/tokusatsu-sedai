@@ -1,4 +1,4 @@
-# anime-sedai
+# tokusatsu-sedai
 
 To install dependencies:
 
